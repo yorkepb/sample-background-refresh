@@ -1,5 +1,5 @@
 # sample-background-refresh
-Sample app demonstrating background app refresh in a very basic form.
+Sample iOS 9.3 app demonstrating background app refresh along with background URL sessions and background tasks. 
 
 This sample app is meant to demonstrate using background app refresh in combination with background tasks and background url sessions. It also provides the option of using a default url session instead of a background url session to point out the differences.
 
